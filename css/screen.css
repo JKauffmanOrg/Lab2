@@ -1,5 +1,5 @@
 body {
-  background-color: #146B6C;
+  
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   margin: 2%;
@@ -16,7 +16,7 @@ header {
 form {
   margin: 0 auto;
   width: 75%;
-  background-color: #5DA7A8
+  
   max-width: 400px;
   padding: 1rem;
   border: 1px solid black;
@@ -50,7 +50,7 @@ input, button {
 }
 
 button {
-  background-color: #55C986
+  
   color: black;
   cursor: pointer;
 }
